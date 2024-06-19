@@ -35,4 +35,12 @@ chainlit run app.py
 4. ***Interact with the AI Agent:***
 
 - **Open the provided URL in your browser.** 
-- **The agent will greet you and you can input mathematical expressions for it to solve.** 
+- **The agent will greet you and you can input mathematical expressions for it to solve.**
+
+  ## Overview
+
+Below is a visual representation of how it works:
+
+![Workflow](ui.png)
+![Workflow](cmd.png)
+
